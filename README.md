@@ -1,2 +1,2 @@
-# oaisi
+# oasis
 Oasis Internship Projects
